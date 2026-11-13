@@ -1,6 +1,6 @@
 // Impeccable 5.2 service worker: everything is cached so the app works offline.
 // Bump CACHE when you publish changes so installed copies pick them up.
-const CACHE = "impeccable-5.2.0";
+const CACHE = "impeccable-5.2.1";
 const ASSETS = [
   "./", "./index.html", "./style.css", "./app.js", "./manifest.webmanifest",
   "./fonts/vt323-latin.woff2", "./fonts/vt323-latin-ext.woff2",
